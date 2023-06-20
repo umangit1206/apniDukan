@@ -1,0 +1,14 @@
+http://localhost:8080/api/v1/auth/register
+{
+    "name":"Umang Patel",
+    "email":"test@gmail.com",
+    "password":"Uman@2501",
+    "phone":"12345678",
+    "address":"anand/gujarat"
+}
+http://localhost:8080/api/v1/auth/login
+
+{
+    "email":"test@gmail.com",
+    "password":"Uman@2501"
+}
